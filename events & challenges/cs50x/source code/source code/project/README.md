@@ -1,5 +1,5 @@
 # FixItYourself
-#### Video Demo:https://youtu.be/rZ8d7cLegZw
+
 #### Description: 'Do you really need to visit a service centre for that?'
 This simple web-application asks for user's electronics' brand and issue type and helps them fix it through either listing out the solution stepwise using hugging face's ai summariser or simply redirects them to a helpful youtube video, using reddit and google as the relevant video/text sources
 
