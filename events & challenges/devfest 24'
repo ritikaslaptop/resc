@@ -1,0 +1,25 @@
+december 21,24'
+
+
+key takeaways
+
+🔹 discussions on the vulnerabilities of large language models (llms) and strategies to mitigate risks provided a fresh perspective on ai security.
+
+🔹 a session on ui/ux design highlighted practical approaches to improving user experience with real-world applications.
+
+🔹 ai integration was explored in-depth, covering function calling with gemini and best practices for deploying applications on vercel.
+
+🔹 agile and waterfall methodologies were compared, with insights into jira techniques and low-code approaches for optimizing project timelines.
+
+🔹 common misconceptions about data structures and algorithms (dsa) were addressed, along with best practices for effective implementation.
+
+🔹 the process of creating and publishing custom angular libraries to npm was demonstrated, shedding light on efficient frontend development workflows.
+
+🔹 shorebird was introduced as a tool for streamlining app updates and releases, offering a more efficient approach to software deployment.
+
+
+personal fave : google form integrated vercel app that generates questions for feedback in an event, easily accessible through qr code 
+
+ref. : https://github.com/duke7able/devfest-gemini-question-to-speaker 
+
+signing off!

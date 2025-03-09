@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+transformers
+praw    
+google-api-python-client
+flask-migrate
